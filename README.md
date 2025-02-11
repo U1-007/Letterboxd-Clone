@@ -10,6 +10,5 @@ Since this is in an early stage of development, it's missing the following featu
 -   No search features exist.
 -   There is no direct link for users to enter new movies. (They can do so by navigation to "\*/movies/new")
 -   Users cannot add profile pictures or edit their profile.
--   The image sizing is all off.
 -   Login doesn't redirect back to the last page you were looking at.
 -   "Log Out" button is out of alignment on header.
